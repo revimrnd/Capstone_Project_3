@@ -1,0 +1,15 @@
+category-encoders==2.6.1
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+missingno==0.5.2
+numpy==1.23.0
+pandas==1.5.3
+phik==0.12.3
+pickleshare==0.7.5
+scikit-base==0.5.0
+scikit-image==0.21.0
+scikit-learn==1.2.2
+scikit-plot==0.3.7
+scipy==1.10.1
+seaborn==0.12.2
+xgboost==1.7.6
